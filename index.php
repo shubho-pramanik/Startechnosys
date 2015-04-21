@@ -127,11 +127,11 @@
 							</small>
 							<br>
 							<strong>
-								Something You Love
+								Innovative. Technocrat. Experience. 
 							</strong>
 						</h1>
 						<p class="lead">
-							If your analysis findings aren’t capturing your audience’s attention, you either have the wrong numbers or the wrong audience.
+							Specialized in Big Data, Analytics, Cloud Computing, App Development and many more.
 						</p>
 						<div class="home-btn">
 							<h4 class="btn-home">
@@ -722,7 +722,7 @@
 							<span class="highlight">
 								successful
 							</span>
-							digital and print projects.
+							Cloud and App Development.
 						</p>
 					</div>
 					<div class=" ">
@@ -732,87 +732,107 @@
 								<div class="cbp-filter-counter">
 								</div>
 							</div>
+							<div data-filter=".photography" class="cbp-filter-item">
+								Products
+								<div class="cbp-filter-counter">
+								</div>
+							</div>
 							<div data-filter=".branding" class="cbp-filter-item">
-								Branding
+								Cloud Computing
 								<div class="cbp-filter-counter">
 								</div>
 							</div>
 							<div data-filter=".web-design" class="cbp-filter-item">
-								Web Design
+								Analytics
 								<div class="cbp-filter-counter">
 								</div>
 							</div>
 							<div data-filter=".apps" class="cbp-filter-item">
-								Apps
+								CRM
 								<div class="cbp-filter-counter">
 								</div>
 							</div>
-							<div data-filter=".photography" class="cbp-filter-item">
-								Photography
-								<div class="cbp-filter-counter">
-								</div>
-							</div>
-							<div data-filter=".video" class="cbp-filter-item">
-								Video
-								<div class="cbp-filter-counter">
-								</div>
-							</div>
+							
+							
 						</div>
 						<div id="grid-container" class="cbp-l-grid-projects">
 							<ul class="grid cs-style-3">
-								<li class="cbp-item web-desing">
+								<li class="cbp-item photography">
 									<figure>
-										<img src="img/portfolio/thumb/1.png" alt="">
-										<figcaption>
-											<a href="http://vimeo.com/50826105" class="cbp-lightbox" data-title="Our Project 2"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										<img src="img/portfolio/thumb/archomed.png" alt="Health Application">
+									
 									</figure>
 								</li>
-								<li class="cbp-item web-design apps video">
+								<li class="cbp-item photography">
 									<figure>
-										<img src="img/portfolio/thumb/1-video.png" alt="">
-										<figcaption>
+										<img src="img/portfolio/thumb/fieldforce.png" alt="Field Force Sales CRM">
+									
+									</figure>
+								</li>
+								<li class="cbp-item photography">
+									<figure>
+										<img src="img/portfolio/thumb/cognizance.png" alt="Cognizance Private/Corporate Communication Application">
+									</figure>
+								</li>
+								
+								<li class="cbp-item branding">
+									<figure>
+										<img src="img/portfolio/thumb/amazon_web_services.png" alt="Amazon Cloud Services">
+										<!-- <figcaption>
 											<a href="http://vimeo.com/50826105" class="cbp-lightbox" data-title="Our Project 2"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										</figcaption> -->
 									</figure>
 								</li>
 								<li class="cbp-item branding">
 									<figure>
-										<img src="img/portfolio/thumb/2.png" alt="">
-										<figcaption>
+										<img src="img/portfolio/thumb/google_cloud_services.png" alt="Google Cloud Services">
+										<!-- <figcaption>
+											<a href="http://vimeo.com/50826105" class="cbp-lightbox" data-title="Our Project 2"><i class="fa fa-search fa-2x"></i></a>
+										</figcaption -->
+									</figure>
+								</li>
+								<li class="cbp-item branding">
+									<figure>
+										<img src="img/portfolio/thumb/windows_azure_services.png" alt="Windows Azure">
+									<!-- 	<figcaption>
 											<a href="img/portfolio/thumb/2.png" class="cbp-lightbox" data-title="Our Project 3"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										</figcaption> -->
 									</figure>
 								</li>
-								<li class="cbp-item web-design branding video">
+								
+								
+								
+								<li class="cbp-item web-design">
 									<figure>
-										<img src="img/portfolio/thumb/2-video.png" alt="">
-										<figcaption>
-											<a href="https://www.youtube.com/watch?v=KRAMNWzfjcg" class="cbp-lightbox" data-title="Our Project 4"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										<img src="img/portfolio/thumb/tableau.png" alt="Tableau">
+										
 									</figure>
 								</li>
-								<li class="cbp-item apps branding">
+								<li class="cbp-item web-design">
 									<figure>
-										<img src="img/portfolio/thumb/3.png" alt="">
-										<figcaption>
-											<a href="img/portfolio/thumb/3.png" class="cbp-lightbox" data-title="Our Project 5"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										<img src="img/portfolio/thumb/google_analytics_services.png" alt="Google Analytics">
+										
 									</figure>
 								</li>
-								<li class="cbp-item web-design video">
+								<li class="cbp-item web-design">
 									<figure>
-										<img src="img/portfolio/thumb/3-video.png" alt="">
-										<figcaption>
-											<a href="http://vimeo.com/64518471#at=0" class="cbp-lightbox" data-title="Our Project 6"><i class="fa fa-search fa-2x"></i></a>
-										</figcaption>
+										<img src="img/portfolio/thumb/spotfire_analytics.png" alt="SpotFire Analytics Tool">
+									
 									</figure>
 								</li>
+								
+								<li class="cbp-item apps">
+									<figure>
+										<img src="img/portfolio/thumb/zurmo_crm.png" alt="Zurmo CRM">
+									
+									</figure>
+								</li>
+								
 							</ul>
 						</div>
-						<div class="cbp-l-loadMore-button">
+						<!-- <div class="cbp-l-loadMore-button">
 							<a href="#" class="btn btn-primary btn-lg btn-responsive">Load more</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</section>
@@ -899,12 +919,12 @@
 								Our Satisfied Clients
 							</small>
 						</h2>
-						<p class="lead">
+						<!-- <p class="lead">
 							Digital agency that loves designing
 							<span class="highlight">
 								great websites.
 							</span>
-						</p>
+						</p> -->
 					</div>
 					<div class="clients-logos">
 						<div class="col-sm-2 col-xs-4">
@@ -941,7 +961,7 @@
 									<small class="white">
 										support@
 										<span class="highlight">
-											domain.com
+											startechnosys.com
 										</span>
 									</small>
 								</h3>
@@ -950,7 +970,7 @@
 										Startechnosys, 36th Floor, 5th Ave.
 									</small>
 									<span class="highlight">
-										New York
+										Canada
 									</span>
 								</h3>
 							</div>
