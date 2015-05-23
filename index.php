@@ -8,10 +8,16 @@
 		<title>
 			Startechnosys
 		</title>
-		<meta name="description" content="A Template by Vossen Design"/>
-		<meta name="keywords" content="HTML5, Bootstrap 3, CSS3, javascript, PHP, onepage, responsive, mobile"/>
+		 <meta name="description" content="Startechnosys is a Hybrid consultancy specialized in optimized solutions for companies across the globe. We design and develop web application, mobile application, scalable e-commerce, CRM, SRM, CMS, Website, survey and other IT solutions to help leading companies better engage and serve their customers." />
+		<meta name="keywords" content="Startechnosys,STS,Star,Startechno, IT consultancy, IT solutions, mobile application, web application, CRM, Customer relationship management, SRM, Subscription relationship management, website, web design, Mobile website, e-Commerce, scalable IT solution, IT services in Toronto , IT services in Canada, IT services in Mumbai, IT services in India, Data Analysis,PHP,php,JAVA,java,JAVASCRIPT,javascript,NODEJS,nodejs,EXPRESSJS,expressjs,HTML5,html5,CSS,css,CSS3,css3,PLAYFRAMEWORK,playframework,YII,yii,IOS,ios,ANDROID,android,WINDOWSPHONE,windowsphone,C#,c#,MYSQL,mysql,MSSQL,mssql,NEO4J,neo4j,COUCHDB,couchdb,CLOUD COMPUTING, cloud computing, AMAZON WEB SERVICES, WINDOWS AZURE, IBM CLOUD, HP CLOUD,CLOUD,DIASTER MANAGMENT,DIASTER RECOVERY,DR,Toronto Mobile App Development, Toronto Mobile Website Design, Toronto Mobile Apps, Android App Development, Iphone App Development, Blackberry App Development, Toronto Mobile App Development Company, Toronto Web Development" />
 		<meta name="author" content="Vossen Design"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<meta property="og:title" content="StarTechnoSys"/>
+		<meta property="og:image" content="http://startechnosys.com/images/logo.png"/>
+		<meta property="og:site_name" content="StarTechnoSys"/>
+		<meta property="og:description" content="Startechnosys is a Hybrid consultancy specialized in optimized solutions for companies across the globe. We design and develop web application, mobile application, scalable e-commerce, CRM, SRM, CMS, Website, survey and other IT solutions to help leading companies better engage and serve their customers."/>
+		<meta property="og:url" content="http://www.startechnosys.com/"/>
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 		
 		<!-- FAV ICON -->
@@ -237,7 +243,7 @@
 										</small>
 									</h4>
 									<p class="about-description">
-										Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+										We are a team of creative designers that believes in having a good time while doing what we love, and we do love what we do. We provides testimonials and comes across as very friendly and approachable, even if you just need an elementary website design for your small business.
 									</p>
 								</div>
 							</div>
@@ -257,7 +263,7 @@
 										</small>
 									</h4>
 									<p class="about-description">
-										Duis vel est nec sapien suscipit gravida. Integer vitae tortor dui. Donec libero quam, euismod sit amet enim ac, varius dictum.
+										Our well established team of developers and graphics artists know how to play with navigation, content structure and flow together in order to create some of the most dynamic, responsive and secure application.  
 									</p>
 								</div>
 							</div>
@@ -277,7 +283,7 @@
 										</small>
 									</h4>
 									<p class="about-description">
-										Maecenas sit amet eros luctus dui volutpat sollicitudin id vitae est. Vivamus laoreet adipiscing metus vel fermentum. Sed velit.
+										We are very passionate about cutting edge technology behind the web development. We uses latest version of tools, follow most recent changes in web technologies and provide support and maintenance 24x7.
 									</p>
 								</div>
 							</div>
@@ -285,7 +291,7 @@
 						<div class="col-md-4 col-sm-6">
 							<div class="about-row">
 								<div class="about-icon">
-									<i class="icon ion-heart-broken ion-3x highlight">
+									<i class="icon ion-location ion-3x highlight">
 									</i>
 								</div>
 								<div class="about-info">
@@ -293,11 +299,11 @@
 										We're Professional
 										<br>
 										<small>
-											New York Based
+											Toronto Based
 										</small>
 									</h4>
 									<p class="about-description">
-										Integer ornare, tellus eget lobortis cursus, metus enim ultricies eros, vitae porttitor elit sapien quis justo. Duis vitae.
+										We are highly professionals who can take care all of your marketing and business needs. Our team is based in business capital of Canada, Toronto.
 									</p>
 								</div>
 							</div>
@@ -310,19 +316,19 @@
 								</div>
 								<div class="about-info">
 									<h4>
-										We're Passionate
+										We're Jubilant 
 										<br>
 										<small>
-											Available When You Need Us
+											 Our Winning Formula
 										</small>
 									</h4>
 									<p class="about-description">
-										Maecenas sit amet eros luctus dui volutpat sollicitudin id vitae est. Vivamus laoreet adipiscing metus vel fermentum. Sed velit.
+										We value happiness, both your happiness as our clients and the happiness of our team. We strongly believe a happy client relationship produces a superior product. Over the last few years we have developed the Startechnosys winning formula. 
 									</p>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-6">
+						<!--<div class="col-md-4 col-sm-6">
 							<div class="about-row">
 								<div class="about-icon">
 									<i class="icon ion-speakerphone ion-3x highlight">
@@ -341,7 +347,7 @@
 									</p>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</section>
@@ -362,25 +368,40 @@
 							</h2>
 							<br>
 							<p class="p-info">
-								Fusce faucibus tincidunt nulla, tincidunt sagittis magna venenatis quis. Proin commodo eu ipsum eu suscipit. In dapibus arcu sit amet imperdiet posuere. Praesent condimentum nulla at mauris ornare, eget
-								consequat felis euismod.
+								We give technical advice to clients who are seeking to use IT to further their business in some way.
 							</p>
 							<p class="p-info">
-								Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis viverra purus tristique. Integer lobortis erat in placerat fermentum. Sed luctus varius leo ac posuere. Integer eget est vitae
-								dolor.
+								The world of Information Technology can be an extremely confusing one and the rapid advances which seem to occur on a daily basis can be difficult to keep up with. However, businesses of all sizes simply have to maintain an awareness of technological issues in order for their goals to be met. IT systems are used by almost all companies throughout the world and the efficiency of these systems can lead to a company’s success or failure.
+							</p>
+							<p class="p-info">
+								We are responsible for providing each client with individually tailored advice, which will help them to meet their objectives. We do not just provide advice. We also provide practical help, by implementing new systems on the behalf of your clients.
 							</p>
 						</div>
 						<div class="col-md-6 col-md-skills wow flipInX">
 							<div class="skills-col">
 								<p>
 									<em>
-										Cloud Solution and Big Data and Analytics
+										Cloud Solution
 									</em>
 								</p>
 								<div class="skillbar" data-percent="100%">
 									<div class="skillbar-title">
 										<span>
 											100%
+										</span>
+									</div>
+									<div class="skillbar-bar">
+									</div>
+								</div>
+								<p>
+									<em>
+										Big Data and Analytics
+									</em>
+								</p>
+								<div class="skillbar" data-percent="80%">
+									<div class="skillbar-title">
+										<span>
+											80%
 										</span>
 									</div>
 									<div class="skillbar-bar">
@@ -440,37 +461,37 @@
 			<section id="fun-facts">
 				<div class="container">
 					<div class="row wow flipInX">
-						<div class="col-md-3 col-sm-6 fact-container">
+						<div class="col-md-4 col-sm-6 fact-container">
 							<div class="fact">
 								<span class="counter highlight">
-									4246
+									10
 								</span>
 								<p class="lead">
 									Satisfied Customers
 								</p>
 							</div>
 						</div>
-						<div class="col-md-3 col-sm-6 fact-container">
+						<div class="col-md-4 col-sm-6 fact-container">
 							<div class="fact">
 								<span class="counter highlight">
-									618
+									12
 								</span>
 								<p class="lead">
 									Twenkies Eaten
 								</p>
 							</div>
 						</div>
-						<div class="col-md-3 col-sm-6 fact-container">
+						<div class="col-md-4 col-sm-6 fact-container">
 							<div class="fact">
 								<span class="counter highlight">
-									240
+									40
 								</span>
 								<p class="lead">
 									Completed Projects
 								</p>
 							</div>
 						</div>
-						<div class="col-md-3 col-sm-6 fact-container">
+						<!--<div class="col-md-3 col-sm-6 fact-container">
 							<div class="fact">
 								<span class="counter highlight">
 									96
@@ -479,7 +500,7 @@
 									Winning Awards
 								</p>
 							</div>
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</section>
@@ -672,7 +693,7 @@
 											E-commerce/Content Management 
 											<br>
 											<small>
-												Wanna to sell something online ?
+												Wanna sell something online ?
 											</small>
 										</h4>
 										<p class="service-description">
@@ -928,22 +949,37 @@
 					</div>
 					<div class="clients-logos">
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-1.png"/></a>
+							<a title="Bhakti Enterprise"><img class="img-responsive" alt="Bhakti Enterprise" src="img/client-1.png"/></a>
 						</div>
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-2.png"/></a>
+							<a title="Jewelexy"><img class="img-responsive" alt="Jewelexy" src="img/client-2.png"/></a>
 						</div>
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-3.png"/></a>
+							<a title="Unity Interiors"><img class="img-responsive" alt="Unity Interiors" src="img/client-3.png"/></a>
 						</div>
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-4.png"/></a>
+							<a title="AVAJ"><img class="img-responsive" alt="AVAJ" src="img/client-4.png"/></a>
 						</div>
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-5.png"/></a>
+							<a title="Boehringer Ingelheim"><img class="img-responsive" alt="Boehringer Ingelheim" src="img/client-5.png"/></a>
 						</div>
 						<div class="col-sm-2 col-xs-4">
-							<a href="#"><img class="img-responsive" src="img/client-6.png"/></a>
+							<a title="Kraving Choclate"><img class="img-responsive" alt="Kraving Choclate" src="img/client-6.png"/></a>
+						</div>
+						<div class="col-sm-2 col-xs-4">
+							<a title="Bright Apparel"><img class="img-responsive" alt="Bright Apparel" src="img/client-7.png"/></a>
+						</div>
+						<div class="col-sm-2 col-xs-4">
+							<a title="Bangiya Parishad"><img class="img-responsive" alt="Bangiya Parishad" src="img/client-8.png"/></a>
+						</div>
+						<div class="col-sm-2 col-xs-4">
+							<a title="Shuchinaum"><img class="img-responsive" alt="Shuchinaum" src="img/client-9.png"/></a>
+						</div>
+						<div class="col-sm-2 col-xs-4">
+							<a title="Shuchinaum"><img class="img-responsive" alt="Shuchinaum" src="img/client-10.png"/></a>
+						</div>
+						<div class="col-sm-2 col-xs-4">
+							<a title="Shuchinaum"><img class="img-responsive" alt="Shuchinaum" src="img/client-11.png"/></a>
 						</div>
 					</div>
 				</div>
@@ -959,7 +995,7 @@
 							<div class="col-lg-12">
 								<h3>
 									<small class="white">
-										support@
+										info@
 										<span class="highlight">
 											startechnosys.com
 										</span>
@@ -967,7 +1003,7 @@
 								</h3>
 								<h3>
 									<small class="white">
-										Startechnosys, 36th Floor, 5th Ave.
+										Startechnosys, 40, Fountainhead Road Toronto,ON M3J 2V1,
 									</small>
 									<span class="highlight">
 										Canada
@@ -1012,8 +1048,7 @@
 									<input name="phone" type="text" id="phone" size="30" value="" placeholder="Phone"/>
 								</div>
 								<div class="col-md-6">
-									<textarea name="comments" cols="40" rows="5" id="comments" placeholder="Message">
-									</textarea>
+									<textarea name="comments" cols="40" rows="5" id="comments" placeholder="Message"></textarea>
 								</div>
 								<div class="col-md-12 text-center">
 									<input type="submit" class="submit" id="submit" value="Submit" />
