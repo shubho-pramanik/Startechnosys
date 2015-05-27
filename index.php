@@ -1119,10 +1119,10 @@
 			</section>
 			<!-- End Contact Form -->
 			<!-- Start Google Map -->
-		<!-- 	<section>
+		 	<section>
 				<div id="map">
 				</div>
-			</section> -->
+			</section> 
 			<!-- End Google Map -->
 			<!-- Start Footer -->
 			<footer id="footer">
