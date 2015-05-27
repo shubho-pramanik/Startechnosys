@@ -274,7 +274,7 @@ Google Maps
 
 $("#map").gmap3({
     marker:{     
-	address:"93 Worth St, New York, NY", 
+	address:"40 Fountainhead Rd Toronto, ON M3J 2V1 Canada", 
 	options:{ icon: "img/marker.png"}},
     map:{
     options:{
