@@ -1050,7 +1050,7 @@
 								</h3>
 								<h3>
 									<small class="white">
-										Startechnosys, 40, Fountainhead Road Toronto,ON M3J 2V1,									
+										Startechnosys, 42 , Cherrystone Dr, Toronto,ON M2H 1S1,									
 										<span class="highlight">
 											Canada
 										</span>
