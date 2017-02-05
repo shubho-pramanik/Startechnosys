@@ -274,7 +274,7 @@ Google Maps
 
 $("#map").gmap3({
     marker:{     
-	address:"40 Fountainhead Rd Toronto, ON M3J 2V1 Canada", 
+	address:"42 , Cherrystone Dr, Toronto,ON M2H 1S1 Canada", 
 	options:{ icon: "img/marker.png"}},
     map:{
     options:{
