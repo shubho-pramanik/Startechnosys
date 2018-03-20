@@ -1050,7 +1050,7 @@
 								</h3>
 								<h3>
 									<small class="white">
-										Startechnosys, 42 , Cherrystone Dr, Toronto,ON M2H 1S1,									
+										Startechnosys, 101 Peter St, Toronto, ON M5V 0G6,									
 										<span class="highlight">
 											Canada
 										</span>
